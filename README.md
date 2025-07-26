@@ -1,4 +1,4 @@
-# EGG_CLASSIFICATION_AI_MODEL
+# EGG CLASSIFICATION AI MODEL
 Code repository made by PhD student Matheus Pupp de Araujo Rosa (Poultry Science Department, Auburn University) for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. <br>
 <br>
 ## Dataset <br>

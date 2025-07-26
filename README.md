@@ -18,7 +18,7 @@ All codes were generrated by ChatGPT and troubleshooted using Gemini AI tools. <
 <b>Pre-process:</b> <br>
 <li>Img. Size = 224 </li><br>
 <li>Batch size = 64 </li><br>
-<b></b>Base VGG19:</b> <br>
+<b>Base VGG19:</b> <br>
 <li>Pre-trained on ImageNet </li><br>
 <li>Learning rate = 0.00001 </li><br>
 <li>Loss function = categorical crossentropy </li><br>

@@ -14,7 +14,7 @@ It was recently attempted to use deep learning to classify eggs by many authors,
 <br>
 ## <b>Implementation</b> <br>
 All codes were generrated by ChatGPT and troubleshooted using Gemini AI tools. <br>
-###<b>Base model</b> <br>
+### <b>Base model</b> <br>
 <b>Pre-process:</b> <br>
 <li>Img. Size = 224 </li><br>
 <li>Batch size = 64 </li><br>
@@ -30,7 +30,7 @@ All codes were generrated by ChatGPT and troubleshooted using Gemini AI tools. <
 <b>Overfitting:</b> <br>
 <li>Training and Validation accuracy/loss </li><br>
 <li>Training = 10 epochs, weighted classes </li><br>
-###<b>Fine-Tuning (unfrozen 8 last layers)</b><br>
+### <b>Fine-Tuning (unfrozen 8 last layers)</b><br>
 <li>Recompiled the model </li><br>
 <li>Learning rate = 0.00001 </li><br>
 <li>Loss = categorical cross-entropy </li><br>

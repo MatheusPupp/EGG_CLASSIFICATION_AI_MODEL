@@ -23,7 +23,7 @@ All codes were generrated by ChatGPT and troubleshooted using Gemini AI tools. <
 <li>Learning rate = 0.00001 </li><br>
 <li>Loss function = categorical crossentropy </li><br>
 <li>Optimizer = Adam </li><br>
-<b></b>Evaluation parameters:</b><br>
+<b>Evaluation parameters:</b><br>
 <li>Precision = exactness </li><br>
 <li>Recall = completeness </li><br>
 <li>F1-score = balance </li><br>

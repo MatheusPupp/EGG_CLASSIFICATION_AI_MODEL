@@ -1,17 +1,17 @@
 # EGG CLASSIFICATION AI MODEL
 Code repository made by PhD student Matheus Pupp de Araujo Rosa (Poultry Science Department, Auburn University) for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. <br>
 <br>
-## Dataset <br>
+### Dataset <br>
 Kindly given by Moreno et al. (Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776). contains approximately 1500 egg images separeted in four different categories (Healthy, Dirty, Cracked, Cracked and Dirty). All credit goes to them and their incredible work on their paper. If you want to reproduce the codes and use their dataset, please refer to them as cited before and send them an email (emails from the team are in the paper).<br>
-Dataset was used from the Google Drive. <br>
+Dataset was used from the Google Drive. Link for the datatset: https://drive.google.com/drive/folders/1_I_6aZV-rPI21XS-nJEmta-X36oGvlek?usp=drive_link<br>
 <br>
-## Environment <br>
+### Environment <br>
 All codes were run in the Google Colab environment with GPU accelaration. <br>
 <br>
-## Rationale <br>
+### Rationale <br>
 The eggshell is one of the main  barriers to keep contamination out of the egg, so the presence of cracks on it open up a possible path to the exterior bacteria to get inside and risk the embryo development. Egg classification is made in order to minimize contamination problems when incubating dirty eggs or litter eggs, incubating them separately. But even with very well trained professionals it is easy to don't see eggs with small cracks and not accounting for them can bring a risk if incubated with clean eggs. <br>
 It was recently attempted to use deep learning to classify eggs by many authors, and they seemed successful in their tasks. Thinking about it, and using the information of the paper "Poultry Egg Classification System Using Deep Learning" by Moreno et al., I tried to implement a AI model to account for this egg classification problems in the poultry industry. <br>
-## REFERENCES <br>
+### REFERENCES <br>
 <li>Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776 <br></li>
 
 <li>Dunkley C. S. A Dozen Egg Abnormalities: HOW THEY AFFECT EGG QUALITY, UGA Cooperative Extension Circular 1255, April 2022. Available at: < https://secure.caes.uga.edu/extension/publications/files/pdf/C%201255_1.PDF> <br></li>

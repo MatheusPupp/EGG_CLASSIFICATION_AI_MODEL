@@ -39,7 +39,7 @@ All codes were generrated by ChatGPT and troubleshooted using Gemini AI tools. <
 <li>Training = 5 epochs </li><br>
 <li>The rest = base model </li><br>
 <br>
-## <b> REFERENCES </b><br>
+##<b> REFERENCES </b><br>
 <li>Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776 <br></li>
 
 <li>Dunkley C. S. A Dozen Egg Abnormalities: HOW THEY AFFECT EGG QUALITY, UGA Cooperative Extension Circular 1255, April 2022. Available at: < https://secure.caes.uga.edu/extension/publications/files/pdf/C%201255_1.PDF> <br></li>

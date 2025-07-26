@@ -1,2 +1,24 @@
 # EGG_CLASSIFICATION_AI_MODEL
-Code repository made by Matheus Pupp de Araujo Rosa for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. 
+Code repository made by Matheus Pupp de Araujo Rosa for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. <br>
+<br>
+## Dataset <br>
+Kindly given by Moreno et al. (Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776). contains approximately 1500 egg images separeted in four different categories (Healthy, Dirty, Cracked, Cracked and Dirty). All credit goes to them and their incredible work on their paper. If you want to reproduce the codes and use their dataset, please refer to them as cited before and send them an email (emails from the team are in the paper).<br>
+Dataset was used from the Google Drive. <br>
+<br>
+## Environment <br>
+All codes were run in the google colab environment with GPU accelaration <br>
+<br>
+## REFERENCES <br>
+<li>Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776 <br>
+
+Dunkley C. S. A Dozen Egg Abnormalities: HOW THEY AFFECT EGG QUALITY, UGA Cooperative Extension Circular 1255, April 2022. Available at: < https://secure.caes.uga.edu/extension/publications/files/pdf/C%201255_1.PDF> <br>
+
+Simonyan K., Zisserman A. VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION, Published as a conference paper at ICLR, 2015. https://doi.org/10.48550/arXiv.1409.1556. <br>
+
+Victor Massaki Nakaguchi, R.M. Rasika D. Abeyrathna, Tofael Ahamed. Development of a new grading system for quail eggs using a deep learning-based machine vision system, Computers and Electronics in Agriculture, Volume 226, 2024, 109433, ISSN 0168-1699. https://doi.org/10.1016/j.compag.2024.109433. <br>
+
+Çelik A., Tekin El. Classification of Hatchery Eggs Using a Machine Learning Algorithm Based on Image Processing Methods: A Comparative Study, Brazilian Journal of Poultry Science, e-ISSN: 1806-9061 2024 / v.26 / n.2 / 001-012. http://dx.doi.org/10.1590/1806-9061-2023-1882.<br> 
+
+KHABISI, M. M, SALAHI, A, & MOUSAVI, S. N (2012). The influence of egg shell crack types on hatchability and chick quality. Turkish Journal of Veterinary & Animal Sciences 36 (3): 289-295. https://doi.org/10.3906/vet-1103-20 <br>
+
+Modi, P. Convolutional Neural Networks for Dummies, Medium, 2023. Available at: https://medium.com/@prathammodi001/convolutional-neural-networks-for-dummies-a-step-by-step-cnn-tutorial-e68f464d608f. Accessed: 07/23/2025. </li> 

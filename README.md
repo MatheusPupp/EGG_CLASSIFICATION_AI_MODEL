@@ -1,5 +1,5 @@
 # EGG_CLASSIFICATION_AI_MODEL
-Code repository made by Matheus Pupp de Araujo Rosa for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. <br>
+Code repository made by PhD student Matheus Pupp de Araujo Rosa (Poultry Science Department, Auburn University) for the Final Project from the COMP6600 - Artificial Intelligence class from Auburn University. <br>
 <br>
 ## Dataset <br>
 Kindly given by Moreno et al. (Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776). contains approximately 1500 egg images separeted in four different categories (Healthy, Dirty, Cracked, Cracked and Dirty). All credit goes to them and their incredible work on their paper. If you want to reproduce the codes and use their dataset, please refer to them as cited before and send them an email (emails from the team are in the paper).<br>

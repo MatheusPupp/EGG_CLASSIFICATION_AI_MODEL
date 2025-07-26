@@ -6,7 +6,7 @@ Kindly given by Moreno et al. (Sánchez, J. M. P., Moreno, L. A. O., Rodríguez,
 Dataset was used from the Google Drive. <br>
 <br>
 ## Environment <br>
-All codes were run in the google colab environment with GPU accelaration <br>
+All codes were run in the Google Colab environment with GPU accelaration. <br>
 <br>
 ## REFERENCES <br>
 <li>Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776 <br></li>

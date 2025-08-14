@@ -3,7 +3,6 @@ Code repository made by PhD student Matheus Pupp de Araujo Rosa (Poultry Science
 <br>
 ## <b>Dataset</b> <br>
 Kindly given by Moreno et al. (Sánchez, J. M. P., Moreno, L. A. O., Rodríguez, J. L. R., & Corro, I. D. M. (2023). Poultry Egg Classification System Using Deep Learning (pp. 1–6). 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE. https://doi.org/10.1109/HORA58378.2023.10156776). contains approximately 1500 egg images separeted in four different categories (Healthy, Dirty, Cracked, Cracked and Dirty). All credit goes to them and their incredible work on their paper. If you want to reproduce the codes and use their dataset, please refer to them as cited before and send them an email (emails from the team are in the paper).<br>
-Dataset was used from the Google Drive. Link for the datatset: https://drive.google.com/drive/folders/1_I_6aZV-rPI21XS-nJEmta-X36oGvlek?usp=drive_link<br>
 <br>
 ## <b>Environment</b> <br>
 All codes were run in the Google Colab environment with GPU accelaration. <br>
